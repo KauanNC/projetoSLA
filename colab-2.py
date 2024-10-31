@@ -2,6 +2,9 @@ import os
 os.system ("cls||clear")
 print ("Adriano")
 
+nome = input ("Digite seu nome : ")
+
+idade = int(input("Digite sua idade : "))
 #COMANDOS DO GIT
 #Adiciona o repositorio atual com dado do repositorio no GitHub
 #git pull
@@ -10,7 +13,7 @@ print ("Adriano")
 #git add.
 
 #VERISONA COM OS NOVOS DADOS
-#git commit -m "OI"
+#git commit -m "eae"
 
 #ATUALIZA TRAZENDO COMMITS DO GITHUB
 #git pull
